@@ -229,6 +229,10 @@ header .container .row button {
     font-size: 4vmin;
 }
 
+.section-3 .desktop p {
+    font-size: 2vmin;
+}
+
 .section-3 .desktop {
     background: white;
     display: inline-block;
